@@ -1,0 +1,40 @@
+E:\Home Assistant\bin\Debug\Home Assistant.exe.config
+E:\Home Assistant\bin\Debug\Home Assistant.exe
+E:\Home Assistant\bin\Debug\Home Assistant.pdb
+E:\Home Assistant\obj\Debug\Home Assistant.csproj.AssemblyReference.cache
+E:\Home Assistant\obj\Debug\Home_Assistant.Form1.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.Login.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.Properties.Resources.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.SignUp.resources
+E:\Home Assistant\obj\Debug\Home Assistant.csproj.GenerateResource.cache
+E:\Home Assistant\obj\Debug\Home Assistant.csproj.CoreCompileInputs.cache
+E:\Home Assistant\obj\Debug\Home Assistant.exe
+E:\Home Assistant\obj\Debug\Home Assistant.pdb
+E:\Home Assistant\obj\Debug\Home_Assistant.main.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.testForm.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.testForm2.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.Home.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.Notepad.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.calculator.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.Calender.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.Browser.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.News.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.foodDel.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.Video.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.Gmail.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.general.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.Finance.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.Health.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.education.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.Fitness.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.BMI.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.expense.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.monthly.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.WaterTracker.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.weightTracker.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.HandWash.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.Tasks.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.Medicine.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.charts.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.ActivityF.resources
+E:\Home Assistant\obj\Debug\Home_Assistant.Covid.resources
